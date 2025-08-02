@@ -12,15 +12,16 @@ Proyek ini melakukan beberapa langkah utama:
 
 ### 1. Clone Repository
 ```
-git clone https://github.com/username/Sentiment_Analysis_using_Machine_Learning.git
+git clone https://github.com/TweeeZT/Sentiment_Analysis_using_Machine_Learning.git
 cd Sentiment_Analysis_using_Machine_Learning
 ```
 ### 2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
+### 3. Jalankan ```Kodingan_scraping.py``` untuk scraping review dari google play store
 
-### 3. Buka ```Sentiment_Analysis_using_Machine_Learning.ipynb``` menggunakan Jupyter Notebook atau Google Colab.
+### 4. Buka ```Sentiment_Analysis_using_Machine_Learning.ipynb``` menggunakan Jupyter Notebook atau Google Colab.
 
 ## Hasil Modelling
 
@@ -32,4 +33,10 @@ pip install -r requirements.txt
               Decision Tree       0.820828
                 Naive Bayes       0.806672
                         RNN       0.478434
+
 ```
+
+Author
+Nama: Cahya Abdurrahman
+
+Email: cahyaabd@upi.edu
