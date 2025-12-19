@@ -37,6 +37,5 @@ pip install -r requirements.txt
 ```
 
 Author
-Nama: Cahya Abdurrahman
+Nama: TweeeZT
 
-Email: cahyaabd@upi.edu
